@@ -27,7 +27,7 @@ const Navbar = () => {
               ))}
             </ul>
 
-            <div className="sm:flex">
+            <div className=" hidden sm:flex">
               <a
                 href="signin.html"
                 className="flex-1 loginBtn px-[22px] py-2 text-base font-medium text-white hover:opacity-70"
